@@ -1,0 +1,100 @@
+{
+  "Action": [
+    {
+      "backdrop": "",
+      "cast": [],
+      "classification": "",
+      "director": "",
+      "genres": ["Action", "Crime", "Drama"],
+      "id": "",
+      "imdb_rating": 9.0,
+      "length": "",
+      "overview": "",
+      "poster": "",
+      "released_on": "",
+      "slug": "1",
+      "title": ""
+    },
+    {
+      "backdrop": "",
+      "cast": [],
+      "classification": "",
+      "director": "",
+      "genres": ["Action", "Crime"],
+      "id": "",
+      "imdb_rating": 9.0,
+      "length": "",
+      "overview": "",
+      "poster": "",
+      "released_on": "",
+      "slug": "2",
+      "title": ""
+    }
+  ],
+  "Crime": [
+    {
+      "backdrop": "",
+      "cast": [],
+      "classification": "",
+      "director": "",
+      "genres": ["Action", "Crime", "Drama"],
+      "id": "",
+      "imdb_rating": 9.0,
+      "length": "",
+      "overview": "",
+      "poster": "",
+      "released_on": "",
+      "slug": "1",
+      "title": ""
+    },
+    {
+      "backdrop": "",
+      "cast": [],
+      "classification": "",
+      "director": "",
+      "genres": ["Action", "Crime"],
+      "id": "",
+      "imdb_rating": 9.0,
+      "length": "",
+      "overview": "",
+      "poster": "",
+      "released_on": "",
+      "slug": "2",
+      "title": ""
+    }
+  ],
+  "Drama": [
+    {
+      "backdrop": "",
+      "cast": [],
+      "classification": "",
+      "director": "",
+      "genres": ["Action", "Crime", "Drama"],
+      "id": "",
+      "imdb_rating": 9.0,
+      "length": "",
+      "overview": "",
+      "poster": "",
+      "released_on": "",
+      "slug": "1",
+      "title": ""
+    }
+  ],
+  "Unique": [
+    {
+      "backdrop": "",
+      "cast": [],
+      "classification": "",
+      "director": "",
+      "genres": ["Unique"],
+      "id": "",
+      "imdb_rating": 9.0,
+      "length": "",
+      "overview": "",
+      "poster": "",
+      "released_on": "",
+      "slug": "3",
+      "title": ""
+    }
+  ]
+}
